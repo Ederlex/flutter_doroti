@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "114978387341",
+    "firebase_url": "https://doroti-bc6cd.firebaseio.com",
+    "project_id": "doroti-bc6cd",
+    "storage_bucket": "doroti-bc6cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114978387341:android:a09f83baa7a86e0d2239c4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_doroti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114978387341-2fk7b02a7cv1dg1ms9c6phbssp13jke9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_doroti",
+            "certificate_hash": "e7105c5f29bbe74f06aec47d7bd7eef1b1d7655c"
+          }
+        },
+        {
+          "client_id": "114978387341-s1206kq85nbaa70b2iiri9hsbc8rcjqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvUK1XJ9tbMel7Y1VNnzJ7HsqdjxXbj10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114978387341-s1206kq85nbaa70b2iiri9hsbc8rcjqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
